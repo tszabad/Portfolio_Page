@@ -1,0 +1,16 @@
+{
+  "name": "portfolio-page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "dependencies": {
+    "bootstrap": "4.2.1",
+    "jquery": "3.3.1",
+    "popper.js": "1.14.6"
+  },
+  "keywords": [],
+  "devDependencies": {
+    "@types/bootstrap": "4.2.0",
+    "@types/jquery": "3.3.29"
+  }
+}
